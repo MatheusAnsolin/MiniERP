@@ -9,7 +9,6 @@ Web Aplication com Java SpringBoot
 
 Template Engine com Thymeleaf e BootStrap, além de html, css e js
 
-JPA na camada modelo, modelagem do banco
-PostgreSQL
+JPA como ORM, modelagem do banco PostgreSQL nativo
 
 Usando Eclipse e VS Code como IDE
