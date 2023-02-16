@@ -3,7 +3,8 @@ Aplicação Web Spring
 
 Desenvolvida como projeto final do curso de Desenvolvedores em TI;
 
-Arquitetura Maven MCV
+Arquitetura Maven ModelControllView
+( Com classes Controller com rotas http para cada método CRUD instânciando um objeto repository que extende uma entidade(classe modelo) mapeada pelo JPA )
 Web Aplication com Java SpringBoot
 
 Template Engine com Thymeleaf e BootStrap, além de css e js
