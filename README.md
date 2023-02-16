@@ -10,3 +10,5 @@ Template Engine com Thymeleaf e BootStrap, além de css e js
 
 JPA na camada modelo, modelagem do banco
 PostgreSQL
+
+Usando Eclipse e VS Code como IDE
